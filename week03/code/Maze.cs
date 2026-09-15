@@ -23,7 +23,7 @@ public class Maze
         }
         else
         {
-            Console.WriteLine("Can't go that way!");
+            throw new InvalidOperationException("Can't go that way!");
         }
     }
 
@@ -36,7 +36,7 @@ public class Maze
         }
         else
         {
-            Console.WriteLine("Can't go that way!");
+            throw new InvalidOperationException("Can't go that way!");
         }
     }
 
@@ -49,7 +49,7 @@ public class Maze
         }
         else
         {
-            Console.WriteLine("Can't go that way!");
+            throw new InvalidOperationException("Can't go that way!");
         }
     }
 
@@ -62,7 +62,7 @@ public class Maze
         }
         else
         {
-            Console.WriteLine("Can't go that way!");
+            throw new InvalidOperationException("Can't go that way!");
         }
     }
 
