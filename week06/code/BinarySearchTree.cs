@@ -2,8 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace week06;
-
 public class BinarySearchTree : IEnumerable<int>
 {
     private Node? _root;

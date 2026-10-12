@@ -1,7 +1,5 @@
 using System;
 
-namespace week06;
-
 public class Node
 {
     public int Data { get; set; }

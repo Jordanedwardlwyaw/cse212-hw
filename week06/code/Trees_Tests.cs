@@ -1,5 +1,3 @@
-namespace week06;
-
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 // DO NOT MODIFY THIS FILE
